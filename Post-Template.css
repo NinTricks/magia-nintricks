@@ -43,6 +43,21 @@
   }
 }
 
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 782px;
+  }
+
+  .u-section-1 .u-post-details-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 423px;
+    margin-left: initial;
+  }
+}
+
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 722px;
