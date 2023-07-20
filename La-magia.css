@@ -160,50 +160,26 @@
 }
 
 .u-section-2 .u-layout-cell-4 {
-  min-height: 244px;
+  min-height: 345px;
 }
 
 .u-section-2 .u-container-layout-4 {
   padding: 26px 0;
 }
 
-.u-section-2 .u-custom-html-1 {
-  height: auto;
-  min-height: 294px;
-  margin: 0 0 0 60px;
-}
-
-.u-section-2 .u-custom-html-2 {
-  height: auto;
-  min-height: 238px;
-  width: 411px;
+.u-section-2 .u-video-2 {
+  width: 509px;
+  height: 286px;
   margin: 0 auto;
 }
 
-.u-section-2 .u-custom-html-3 {
-  height: auto;
-  min-height: 208px;
-  width: 358px;
-  margin: 0 auto;
-}
-
-.u-section-2 .u-custom-html-4 {
-  height: auto;
-  min-height: 240px;
-  width: 415px;
-  margin: 26px auto 0;
-}
-
-.u-section-2 .u-custom-html-5 {
-  height: auto;
-  min-height: 192px;
-  width: 320px;
-  margin: 16px auto -8px;
+.u-section-2 .embed-responsive-2 {
+  position: absolute;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 698px;
+    min-height: 851px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -245,14 +221,14 @@
 
   .u-section-2 .u-layout-wrap-2 {
     margin-top: 20px;
-    position: relative;
-    width: 940px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-bottom: 20px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-layout-cell-3 {
-    min-height: 436px;
+    min-height: 403px;
   }
 
   .u-section-2 .u-text-3 {
@@ -267,17 +243,22 @@
     margin-top: 0;
   }
 
-  .u-section-2 .u-custom-html-1 {
-    width: 410px;
-    margin-top: 55px;
-    margin-left: auto;
-    margin-right: auto;
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 403px;
+  }
+
+  .u-section-2 .u-video-2 {
+    height: 264px;
+    margin-top: 46px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 544px;
+    min-height: 869px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -320,12 +301,8 @@
     margin-right: 0;
   }
 
-  .u-section-2 .u-layout-wrap-2 {
-    width: 720px;
-  }
-
   .u-section-2 .u-layout-cell-3 {
-    min-height: 466px;
+    min-height: 444px;
   }
 
   .u-section-2 .u-text-3 {
@@ -337,18 +314,22 @@
     margin-top: 20px;
   }
 
-  .u-section-2 .u-custom-html-1 {
-    width: 360px;
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 444px;
   }
 
-  .u-section-2 .u-custom-html-2 {
+  .u-section-2 .u-video-2 {
+    height: 202px;
     width: 360px;
+    margin-top: 105px;
+    margin-right: -2px;
+    margin-left: auto;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1000px;
+    min-height: 918px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -392,13 +373,14 @@
 
   .u-section-2 .u-layout-wrap-2 {
     margin-top: 0;
+    margin-bottom: 1px;
+    width: auto;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-2 .u-layout-cell-3 {
-    min-height: 105px;
+    min-height: 72px;
   }
 
   .u-section-2 .u-container-layout-3 {
@@ -416,18 +398,23 @@
   .u-section-2 .u-text-4 {
     margin-top: 14px;
   }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 315px;
+  }
+
+  .u-section-2 .u-video-2 {
+    height: 231px;
+    width: 411px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: 63px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 849px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    position: relative;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -474,25 +461,22 @@
     margin-bottom: -7px;
   }
 
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 227px;
+  }
+
   .u-section-2 .u-container-layout-4 {
-    padding-top: 18px;
-    padding-bottom: 18px;
+    padding-top: 11px;
+    padding-bottom: 11px;
   }
 
-  .u-section-2 .u-custom-html-1 {
-    width: 340px;
-  }
-
-  .u-section-2 .u-custom-html-2 {
-    width: 340px;
-  }
-
-  .u-section-2 .u-custom-html-3 {
-    width: 340px;
-  }
-
-  .u-section-2 .u-custom-html-4 {
-    width: 340px;
+  .u-section-2 .u-video-2 {
+    height: 191px;
+    margin-top: 14px;
+    margin-bottom: -3px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 } .u-section-3 {
   background-image: url("images/Sinttulo-1_Mesadetrabajo1.jpg");
